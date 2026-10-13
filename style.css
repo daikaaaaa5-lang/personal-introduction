@@ -13,3 +13,24 @@ header {
 main {
     padding: 20px;
 }
+
+/* Style cho phan gioi thieu ban than */
+#introduction {
+    background-color: #e8f4ff;
+    padding: 24px;
+    margin-top: 20px;
+    border-radius: 12px;
+    border-left: 5px solid #2563eb;
+}
+
+#introduction h2 {
+    color: #1d4ed8;
+    font-size: 26px;
+    margin-top: 0;
+}
+
+#introduction p {
+    color: #334155;
+    font-size: 16px;
+    line-height: 1.7;
+}
